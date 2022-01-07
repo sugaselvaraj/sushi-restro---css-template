@@ -1,0 +1,37 @@
+body {
+  font-family: 'Varela Round', sans-serif;
+}
+
+video {
+  position: fixed;
+  top: 0;
+  z-index: -1;
+}
+
+div {
+  width: 100%;
+  text-align: center;
+  margin-top: 200px;
+  color: white;
+}
+
+h1 {
+  font-size: 4em;
+  color: #f7cd2e;
+}
+
+p {
+  font-size: 1.8em;
+  color: bisque;
+}
+
+a {
+  font-size: 2em;
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: #e83a59;
+  border-radius: 10px;
+  opacity: 0.7;
+}
